@@ -1,0 +1,36 @@
+footer {
+  background-color: #575757;
+  color: white;
+  padding: 45px 0;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer-block {
+  width: 430%;
+}
+
+.footer-container h3 {
+  font-size: 1.3rem;
+}
+
+.footer-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-container li {
+  margin: 125px 10;
+}
+
+.footer-container a {
+  color: #d4d4d4;
+  text-decoration: none;
+}
+
+.footer-container a:hover {
+  text-decoration: underline;
+}

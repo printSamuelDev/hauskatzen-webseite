@@ -1,0 +1,18 @@
+.Bombaycat {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+  height: auto;
+  box-shadow: 0px 8px 58px 7px #170ad3;
+  padding: 20px;
+}
+
+.Allgemein,
+.Aussehen,
+.Charakter,
+.Herkunft {
+  border: 5px solid #170ad3;
+  padding: 20px;
+  box-shadow: 0px 8px 58px 7px #170ad3;
+  margin: 20px auto;
+}

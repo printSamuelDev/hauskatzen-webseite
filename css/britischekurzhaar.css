@@ -1,0 +1,18 @@
+.Britischekurzhaar {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40%;
+  height: auto;
+  box-shadow: 0px 6px 58px 6px #e00a0a;
+  padding: 20px;
+}
+
+.Allgemein,
+.Aussehen,
+.Charakter,
+.Herkunft {
+  border: 5px solid #e00a0a;
+  padding: 20px;
+  box-shadow: 0px 8px 58px 7px #e00a0a;
+  margin: 20px auto;
+}

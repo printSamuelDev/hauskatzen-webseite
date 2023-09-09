@@ -1,0 +1,14 @@
+.underline {
+    text-decoration: underline; 
+  }
+
+  .pink {
+    color: pink;
+    font-size: 18px;
+    margin-left: 40px;
+
+  }
+  .fun-facts {
+    margin-left: 100px;
+    height: 120px;
+  }
