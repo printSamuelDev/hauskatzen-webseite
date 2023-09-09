@@ -1,15 +1,15 @@
 .underline {
-    text-decoration: underline; 
-  }
+  text-decoration: underline;
+}
 
-  .Grün {
-    color: rgb(122, 240, 99);
-    font-size: 18px;
-    margin-left: 40px;
+.Grün {
+  color: rgb(122, 240, 99);
+  font-size: 18px;
+  margin-left: 40px;
 
-  }
- 
-  .Steckbrief {
-    margin-left: 100px;
-    height: 150px;
-  }
+}
+
+.Steckbrief {
+  margin-left: 100px;
+  height: 150px;
+}

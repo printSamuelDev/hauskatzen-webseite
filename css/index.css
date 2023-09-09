@@ -1,24 +1,24 @@
 .main-container {
-    max-width: 90%;
-    margin: auto;
-    padding: 40px;
-  }
-  
-  .main-container b {
-    color: #f1f1f1;
-    font-size: 18px;
-  }
-  
-  .main-container p {
-    color: #dfdfdf;
-    font-size: 16px;
-  }
-  
-  .main-container a {
-    color: #e0e0e0;
-    font-size: 16px;
-  }
-  
-  .main-introduction {
-    margin-top: 10px;
-  }
+  max-width: 90%;
+  margin: auto;
+  padding: 40px;
+}
+
+.main-container b {
+  color: #f1f1f1;
+  font-size: 18px;
+}
+
+.main-container p {
+  color: #dfdfdf;
+  font-size: 16px;
+}
+
+.main-container a {
+  color: #e0e0e0;
+  font-size: 16px;
+}
+
+.main-introduction {
+  margin-top: 10px;
+}
