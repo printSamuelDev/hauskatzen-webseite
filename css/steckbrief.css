@@ -2,14 +2,14 @@
   text-decoration: underline;
 }
 
-.Grün {
-  color: rgb(122, 240, 99);
+.green {
+  color: #7af063;
   font-size: 18px;
   margin-left: 40px;
 
 }
 
-.Steckbrief {
+.steckbrief {
   margin-left: 100px;
   height: 150px;
 }
